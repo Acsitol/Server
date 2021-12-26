@@ -5,22 +5,22 @@ h1 {
 	font-size: 200px;
 	font-weight: 800px;
 	color: #595959;
-	background-color: #4284ff;
+	background-color: #cfe8ff;
 	text-shadow: 1px 1px 2px #ffffff, 0 0 1em #ffffff, 0 0 0.2em #ffffff
 }
 h2 {
         font-size: 120px;
-        color: #4284ff
+        color: #bac3ff
 }
 h3 {
         font-size: 100px;
-        color: #4cc7b6
+        color: #8f9cf2
 }
 h4 {
         font-size: 80px;
-        color: #219e53
+        color: #6174ed
 }
 .p {
         font-size: 50px;
-        color: #33384a
+        color: #4f65f0
 }
